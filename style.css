@@ -1,0 +1,13 @@
+body { font-family: 'Helvetica', 'Arial', sans-serif; }
+#logo { width: 236px; height: 238px; background-image: url(lebron.png); margin: 75px auto 50px auto; }
+.title { margin: 0; font-weight: 200; text-align: center; font-size: 100px;}
+.pre-title, .post-title { display: block; }
+#peepthis { margin-bottom: 75px; }
+span { text-align: center; }
+.realtalk { margin-top: 50px;}
+.realtalk span { display: block; text-align: center; }
+blockquote { margin: 10px; font-size: 30px; font-weight: 200; text-align: center; font-style: italic;}
+p { font-size: 50px; font-weight: 200; text-align: center; }
+.emphasis { color: #ff4136; }
+a { text-decoration: none; color: black; }
+a:hover { text-decoration: underline; }
