@@ -1,6 +1,6 @@
 body { font-family: 'Helvetica', 'Arial', sans-serif; }
-#logo { width: 236px; height: 238px; background-image: url(lebron.png); margin: 75px auto 50px auto; }
-.title { margin: 0; font-weight: 200; text-align: center; font-size: 100px;}
+#logo { width: 300px; height: 543px; background-image: url(lebron.png); margin: 5px auto 10px auto; }
+.title { margin: 0; font-weight: 200; text-align: center; font-size: 100px; color: #0c3668; }
 .pre-title, .post-title { display: block; }
 #peepthis { margin-bottom: 75px; }
 span { text-align: center; }
